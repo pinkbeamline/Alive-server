@@ -1,0 +1,4 @@
+file "$(TOP)/db/aliverec.db" { pattern
+{  BL,    DEV,              R, HMAG, DEADTIME}
+{PINK, ALVSRV,    aliveclient,    0,       10}
+}

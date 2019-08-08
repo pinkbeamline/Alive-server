@@ -1,0 +1,5 @@
+record(sub, "$(BL):$(DEV):server_init")
+{
+    field(PINI, "YES")
+    field(INAM, "startserver")
+}

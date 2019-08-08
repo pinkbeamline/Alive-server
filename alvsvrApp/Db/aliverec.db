@@ -1,0 +1,7 @@
+record(sub, "$(BL):$(DEV):$(R)")
+{
+    field(SCAN, "5 second")
+    field(SNAM, "isalive")
+    field(INPA, "$(HMAG)")
+    field(INPB, "$(DEADTIME)")
+}
